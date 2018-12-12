@@ -1,0 +1,16 @@
+C:\Users\MahdiCo\AppData\Local\Temporary Projects\HideTextInPic\bin\Debug\HideTextInPic.exe
+C:\Users\MahdiCo\AppData\Local\Temporary Projects\HideTextInPic\bin\Debug\HideTextInPic.pdb
+C:\Users\MahdiCo\AppData\Local\Temporary Projects\HideTextInPic\obj\x86\Debug\HideTextInPic.Form1.resources
+C:\Users\MahdiCo\AppData\Local\Temporary Projects\HideTextInPic\obj\x86\Debug\HideTextInPic.Properties.Resources.resources
+C:\Users\MahdiCo\AppData\Local\Temporary Projects\HideTextInPic\obj\x86\Debug\HideTextInPic.csproj.GenerateResource.Cache
+C:\Users\MahdiCo\AppData\Local\Temporary Projects\HideTextInPic\obj\x86\Debug\HideTextInPic.exe
+C:\Users\MahdiCo\AppData\Local\Temporary Projects\HideTextInPic\obj\x86\Debug\HideTextInPic.pdb
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\obj\x86\Debug\HideTextInPic.exe
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\obj\x86\Debug\HideTextInPic.pdb
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\bin\Debug\HideTextInPic.exe
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\bin\Debug\HideTextInPic.pdb
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\obj\x86\Debug\HideTextInPic.Form1.resources
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\obj\x86\Debug\HideTextInPic.Properties.Resources.resources
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\obj\x86\Debug\HideTextInPic.csproj.GenerateResource.Cache
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\obj\x86\Debug\HideTextInPic.csprojResolveAssemblyReference.cache
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\bin\Debug\HideTextInPic.exe.config

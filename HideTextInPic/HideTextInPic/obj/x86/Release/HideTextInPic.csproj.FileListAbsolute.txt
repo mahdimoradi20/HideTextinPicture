@@ -1,0 +1,8 @@
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\bin\Release\HideTextInPic.exe.config
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\bin\Release\HideTextInPic.exe
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\bin\Release\HideTextInPic.pdb
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\obj\x86\Release\HideTextInPic.Form1.resources
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\obj\x86\Release\HideTextInPic.Properties.Resources.resources
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\obj\x86\Release\HideTextInPic.csproj.GenerateResource.Cache
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\obj\x86\Release\HideTextInPic.exe
+C:\Users\MahdiCo\Desktop\HideTextInPic\HideTextInPic\obj\x86\Release\HideTextInPic.pdb
